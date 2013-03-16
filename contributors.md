@@ -22,4 +22,3 @@ So that when you need update your branch (eg 'master'), you can do so locally wi
 
 `$ git pull parent master`
 
-
