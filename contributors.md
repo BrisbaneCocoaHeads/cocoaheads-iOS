@@ -4,7 +4,7 @@ Contributors (in alphabetical order:)
 * Eoin McCarthy
 * Matt Connolly
 * Roger Stephen
-* Yan Bodson
+* Yann Bodson
 
 
 Contributing
@@ -21,5 +21,4 @@ After cloning your fork, add the parent as an additional remote:
 So that when you need update your branch (eg 'master'), you can do so locally with:
 
 `$ git pull parent master`
-
 
